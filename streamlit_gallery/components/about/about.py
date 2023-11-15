@@ -27,7 +27,7 @@ def main():
             <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
                 <img src="https://drive.google.com/uc?id=1EUbPKr0w3wWNwxogWJ6Ynv2y_S70rk_E" alt="Rusdi Permana" style="width: 50%; height: 50%;">
                 <h3>Rusdi Permana</h3>
-                <p>Supply Chain Specialist</p>
+                <p>Data Scientist</p>
             </div>
             """, unsafe_allow_html=True)
 
