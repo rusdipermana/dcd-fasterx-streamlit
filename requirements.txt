@@ -1,0 +1,12 @@
+opencv-python-headless
+matplotlib
+numpy
+pandas
+Pillow
+torch
+torchvision
+streamlit
+streamlit_folium
+openpyxl
+plotly
+gdown

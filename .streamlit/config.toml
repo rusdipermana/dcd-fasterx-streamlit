@@ -1,0 +1,4 @@
+[theme]
+base = "dark"  # Tema awal (ganti dengan "light" jika Anda ingin tema awal putih)
+backgroundColor = "#1e1e1e"  # Warna latar belakang untuk tema "dark"
+secondaryBackgroundColor = "#252526"  # Warna latar belakang sekunder untuk tema "dark"
